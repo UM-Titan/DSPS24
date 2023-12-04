@@ -34,12 +34,13 @@ We expect you to respect the spirit of the competition and do not cheat.
 * Please submit source code and trained model before the deadline. IPython Notebook is desirable for the source code submission. The organizers will verify the reproducibility of the algorithm before determining the final winner.
 
 
-```bash
 # Data Download
+```bash
 ## run code below in google collab to download training data. 
 !gdown --id '1epfGqAgjFsxNN3uFLo9GI3eI7m1yX4Jh'
+```
 
-
+## data 
 ```bash
 # Data Extraction
 ## run code below in google collab to extract zipped training data. 
