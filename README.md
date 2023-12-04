@@ -4,11 +4,11 @@
 
 This is the third DSPS student competition on the application of AI for pavement condition monitoring. Participants will use novel machine learning algorithms to predict the pavement condition index (PCI) for road sections based on images captured from infrastructure - mounted sensors. Training datasets provided consists of Top-down views of pavement image data and associated pavement condition index. Participants are free to annotate training datasets and use any model architecture to predict the PCI of the road section.
 
- <div align="center">
-  <a>
-   <img src="https://github.com/UM-Titan/DSPS24/blob/main/dsps.png" width="50%"/>
-  </a>
-   
+ <div >
+    <a>
+     <img src="https://github.com/UM-Titan/DSPS24/blob/main/dsps.png" width="30%"/>
+    </a>
+     
     <a>
         <img src="https://github.com/UM-Titan/DSPS/blob/main_dev/gif2.gif" width="25%"/>
     </a>
