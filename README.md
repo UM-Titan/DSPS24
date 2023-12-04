@@ -33,5 +33,7 @@ We expect you to respect the spirit of the competition and do not cheat.
 * Teams are free to use any model architecture of their choice. 
 * Please submit source code and trained model before the deadline. IPython Notebook is desirable for the source code submission. The organizers will verify the reproducibility of the algorithm before determining the final winner.
 
-!gdown --id '1epfGqAgjFsxNN3uFLo9GI3eI7m1yX4Jh'
+
 ```bash
+
+!gdown --id '1epfGqAgjFsxNN3uFLo9GI3eI7m1yX4Jh'
