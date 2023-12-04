@@ -35,5 +35,6 @@ We expect you to respect the spirit of the competition and do not cheat.
 
 
 ```bash
-
+# Data Download
+## run code below in google collab to download training data. 
 !gdown --id '1epfGqAgjFsxNN3uFLo9GI3eI7m1yX4Jh'
