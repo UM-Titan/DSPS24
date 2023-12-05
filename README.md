@@ -12,13 +12,13 @@ This is the third DSPS student competition on the application of AI for pavement
      <img src="https://github.com/UM-Titan/DSPS24/blob/main/11177_%5B40.72135599531271%2C%20-89.44741236557417%5D_%202023-10-18%2020-36-50_24.2979_LD.jpg" width="25%"/>
     </a>
   <a>
-     <img src="https://github.com/UM-Titan/DSPS24/blob/main/11177_%5B40.72135599531271%2C%20-89.44741236557417%5D_%202023-10-18%2020-36-50_24.2979_LD.jpg" width="25%"/>
+     <img src="https://github.com/UM-Titan/DSPS24/blob/main/17429_%5B40.70484625151038%2C%20-89.44938348689516%5D_%202023-10-20%2018-38-59_51.63905_LD.jpg" width="25%"/>
     </a>
   <a>
-     <img src="https://github.com/UM-Titan/DSPS24/blob/main/11177_%5B40.72135599531271%2C%20-89.44741236557417%5D_%202023-10-18%2020-36-50_24.2979_LD.jpg" width="25%"/>
+     <img src="https://github.com/UM-Titan/DSPS24/blob/main/399_(40.7199438333333%2C%20-89.424166)_%202023-10-18%2015-43-34_55.86445_D.jpg" width="25%"/>
     </a>
   <a>
-     <img src="https://github.com/UM-Titan/DSPS24/blob/main/11177_%5B40.72135599531271%2C%20-89.44741236557417%5D_%202023-10-18%2020-36-50_24.2979_LD.jpg" width="25%"/>
+     <img src="https://github.com/UM-Titan/DSPS24/blob/main/399_(40.7199438333333%2C%20-89.42___4166)_%202023-10-18%2015-43-34_55.86445_D.jpg" width="25%"/>
     </a>
 </div> 
 
