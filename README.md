@@ -6,16 +6,8 @@ This is the third DSPS student competition on the application of AI for pavement
 
  <div >
     <a>
-     <img src="https://github.com/UM-Titan/DSPS24/blob/main/dsps.png" width="80%"/>
-    </a>
-    <a>
-        <img src="https://github.com/UM-Titan/DSPS/blob/main_dev/gif2.gif" width="10%"/>
-    </a>
-    <a>
-        <img src="https://github.com/UM-Titan/DSPS/blob/main/dsps.gif" width="10%"/>
-    </a>
-    
-    
+     <img src="https://github.com/UM-Titan/DSPS24/blob/main/dsps.png" width="100%"/>
+    </a>    
 </div> 
 
 ## <summary>TIMELINE </summary>
