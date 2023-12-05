@@ -35,9 +35,9 @@ This is the third DSPS student competition on the application of AI for pavement
 
 ## <summary> RULES </summary>
 We expect you to respect the spirit of the competition and do not cheat.
-* There is no restriction on the size of the team.
-* The use of external data is forbidden
-* Pre-trained models are allowed in the competition
+* There are no restrictions on the size of teams.
+* The use of external data for model training is forbidden.
+* Pre-trained models are allowed in the competition.
 * Teams are free to use any model architecture of their choice. 
 * Please submit source code and trained model before the deadline. IPython Notebook is desirable for the source code submission. The organizers will verify the reproducibility of the algorithm before determining the final winner.
 
