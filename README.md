@@ -60,3 +60,20 @@ We expect you to respect the spirit of the competition and do not cheat.
 ## if gdown fails, click on output link from gdown to download data directly from browser
 !gdown --id '1PG6d5YT96YC3HbwIuAGUUVkYo5vNfxoP'
 ```
+
+## Generate Submission File
+```bash
+## use code below to generation JSON formated data for submission.
+## The code below takes in a dataframe with two columns: image_name and PCI
+ 
+import pandas as pd
+import json
+# df: should have two columns - image_name and PCI
+def gen_submit(df):
+  out_json = []
+  for idx, results in df.iterrows():
+    out_json.append({results['image_name']:results['PCI']})
+  with open('submission.json', 'w') as f:
+    json.dump(out_json, f)
+
+```
