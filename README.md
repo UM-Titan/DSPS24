@@ -53,3 +53,10 @@ We expect you to respect the spirit of the competition and do not cheat.
 ## use unzip in google collab to extract zipped training data to current directory. 
 !unzip 'data.zip' -d './'
 ```
+
+## Test Data Download
+```bash
+## use gdown in google collab to download the test data.
+## if gdown fails, click on output link from gdown to download data directly from browser
+!gdown --id '1PG6d5YT96YC3HbwIuAGUUVkYo5vNfxoP'
+```
