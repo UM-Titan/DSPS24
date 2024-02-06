@@ -45,7 +45,7 @@ We expect you to respect the spirit of the competition and do not cheat.
 # Data Download
 ```bash
 ## use gdown in google collab to download training data. 
-!gdown --id '1QJKDKLGxbeo7j784bwX7dRIystDqNVNC'
+!gdown --id '1zg5EDls7E4ZnkWzPKh_XNkw564ns22mq'
 ```
 
 ## Data Extraction 
@@ -59,7 +59,7 @@ We expect you to respect the spirit of the competition and do not cheat.
 ## use gdown in google collab to download the test data.
 ## if gdown fails, click on output link from gdown to download data directly from browser
 
-!gdown --id '19YwEMLP1l-R0vy04pjFbYHxOlPzfG8pg'
+!gdown --id '1KdNjCIot9SYh9JxRHuCjrPdmgUDazZ9U'
 ```
 
 ## Generate Submission File
