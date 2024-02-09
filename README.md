@@ -27,7 +27,7 @@ This is the third DSPS student competition on the application of AI for pavement
 * 12-20-2023: Training data for competition is released. Download data from GitHub page
 * 01-08-2024: Test Data for competition is released.
 * 01-22-2024: Leaderboard website is open for results submission.
-* 02-09-2024: Tutorial on how to use benchmark model.
+* 02-09-2024: [Tutorial](https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=787a9798-b259-41ff-aa8e-b111016991df) on how to use benchmark model.
 * 02-12-2024: The link for submitting the source code enabled.
 * 02-23-2024: Competition ends! Deadline for submitting the source code & the solutions.
 * 02-26-2024: Top 5 teams shortlisted for paper submission!
